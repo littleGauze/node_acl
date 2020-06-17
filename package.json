@@ -1,6 +1,6 @@
 {
   "name": "@littlegauze/acl",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "An Access Control List module, based on Redis with Express middleware support",
   "keywords": [
     "middleware",
